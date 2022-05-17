@@ -1,6 +1,6 @@
 import random
 
-slowa=("pies","ok","pies")
+slowa=("ogorek.pl","komora.pl","piesgps","abcdefgh",)
 
 zycia =3
 zgadywanie=random.choice(slowa)
